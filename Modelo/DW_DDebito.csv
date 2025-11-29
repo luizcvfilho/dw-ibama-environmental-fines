@@ -79,277 +79,262 @@
 78,Baixado c/base na Lei 9960/00,Real
 79,Pedido de recurso ao Pres. do Ibama,Real
 80,"Parcelado, sem juros adicionais",Real
-81,Insuficiência de dados p/cobrança administrativa,Real
-82,Quitado. Baixa manual,BTN
-83,Baixado - Pedido revisional deferido,Real
-84,Análise admis/mérito do recurso de ofício,Real
-85,800 - Quitado por pagamento de parcelamento tipo PRD,Real
-86,Exigibilidade suspensa - Parcelamento pela PGF/PRD,Real
-87,Crédito ativo com óbice técnico,Real
-88,AI homologado,Real
-89,Análise pedido de revisão,Real
-90,Parcelamento Administrativo,Real
-91,Quitado no Sapiens Dívida,Real
-92,Em análise pela área jurídica,Real
-93,Parcelamento Decreto 9.760/19,Real
-94,Baixado por cancelamento/nulidade na conciliação,Real
-95,"Quitado por Parcelamento (Leis 12249, 12865, 12973, 12996)",Real
-96,Enviado à Protesto,Real
-97,Intimado por edital,Real
-98,Exigibilidade suspensa por dec. judic. com depósito em juízo,Real
-99,Pedido de defesa ao Superintendente,Real
-100,"Parcto com redução (Leis 12249, 12865, 12973, 12996,13043))",Real
-101,Quitado. Baixa automática,UFIR
-102,Excluído devido a duplicidade de lançamento,Cruzado Novo
-103,Baixado por prescrição intercorrente durante anál. jurídica,Cruzado Novo
-104,Cancelado,Cruzeiro (90 a 93)
-105,Para homologação/prazo de defesa,Cruzeiro (90 a 93)
-106,Quitado. Baixa automática,Cruzeiro (90 a 93)
-107,Cancelado na homologação (AI sem defesa),Cruzeiro (90 a 93)
-108,Baixado c/base na IN 8/99(Port.267/88),Cruzado Novo
-109,Baixado por recuperação ambiental,Real
-110,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzeiro (70 a 86)
-111,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzado
-112,Excluído devido a duplicidade de lançamento,Cruzado
-113,Exigibilidade suspensa - Parcelamento no Sapiens Dívida,Real
-114,Análise admis/mérito do recurso ao Conama,Real
-115,Parcelamento cancelado c/saldo cobrado na justiça,Real
-116,Baixado c/base no Dec. 3179/99. PS FORMA INDIRETA,Real
-117,Julgamento 1ª e 2ª Instância/Dec. Administ.-Débito Excluído,Real
-118,"Substit. p/débito acumulado (Leis 12249,12865,12973, 12996)",Real
-119,Analisar admi/mérito de recons. ao Superin/Gerente,Real
-120,Em recuperação ambiental,Real
-121,Baixado - Recurso ao Min. MMA deferido,Real
-122,PRESTAÇÃO DE SERVIÇO DE FORMA DIRETA em andamento,Real
-123,"Para nova homologação, devido a alterações",Cruzeiro Real
-124,"Para nova homologação, devido a alterações",Cruzeiro (90 a 93)
-125,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",BTN
-126,Excluído devido a duplicidade de lançamento,Cruzeiro Real
-127,Cancelado,Cruzeiro (70 a 86)
-128,Baixa provisória efetuada pelo CNT,Real
-129,Processo em poder da justiça,Real
-130,"Em DA, com valor insuficiente p/ cobrança judicial",Real
-131,Em cobrança judicial,Cruzeiro (70 a 86)
-132,Substit. p/débito acumulado,Real
-133,Quitado. Baixa manual,Cruzeiro (90 a 93)
-134,Quitado por conversão de renda,Cruzeiro Real
-135,Baixado c/base na IN 8/99(Port.267/88),BTN
-136,Análise admis/mérito de impugnação/defesa,BTN
-137,Pagamento 10% da recuperação ambiental,Real
-138,Excluído devido a duplicidade de lançamento,BTN
-139,Para homologação/prazo de defesa,Cruzeiro Real
-140,Excluído devido a duplicidade de lançamento,Cruzeiro (70 a 86)
-141,Baixado c/base na IN 23/01.IN/IBDF 01/80,OTN
-142,Baixado - Pedido revisional deferido,Cruzeiro Real
-143,Baixado c/base na IN 8/99(Port.267/88),Cruzado
-144,Baixado c/base na IN 23/01.IN/IBDF 01/80,MVR
-145,Excluído devido a duplicidade de lançamento,OTN
-146,Baixado c/base na IN 23/01.IN/IBDF 01/80,Cruzeiro Real
-147,Quitado. Baixa automática,Cruzeiro (70 a 86)
-148,Cancelado,Cruzado
-149,Cancelado,Cruzado Novo
-150,Baixado c/base na IN 8/99(Port.267/88),MVR
-151,Quitado. Baixa manual,Cruzado
-152,Baixado c/base na IN 8/99(Port.267/88),Cruzeiro (70 a 86)
-153,Cancelado,BTN
-154,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzeiro (90 a 93)
-155,Prestação de serviço em andamento,Real
-156,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",UFIR
-157,Cancelado na homologação (AI sem defesa),UFIR
-158,Excluído da cobrança judicial,Real
-159,Análise do pedido de adesão(PRD),Real
-160,Em cobrança judicial,Cruzeiro Real
-161,Inscrito na dívida ativa,Cruzeiro Real
-162,Cancelado,Cruzeiro Real
-163,Pedido de defesa ao Superintendente,Cruzeiro (90 a 93)
-164,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzeiro Real
-165,Análise do pedido p/PREST. SERV. DE FORMA INDIRETA,Real
-166,Execução suspensa por determ. judicial/Ped. Parcto,Real
-167,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzado Novo
-168,Para homologação/prazo de defesa,Cruzado Novo
-169,Rescisão de parcelamento no Sapiens Dívida,Real
-170,Quitado. Baixa manual,Cruzeiro Real
-171,Em cobrança judicial,BTN
-172,Baixado c/base na IN 23/01.IN/IBDF 01/80,Real
-173,Excluído da cobrança judicial,Cruzeiro (70 a 86)
-174,Baixado c/base na Lei 9960/00,Cruzeiro (90 a 93)
-175,Inscrito na dívida ativa,Cruzeiro (90 a 93)
-176,Para homologação/prazo de defesa,BTN
-177,Em cobrança judicial,Cruzado
-178,Quitado. Cancelado o saldo devedor,Cruzeiro (70 a 86)
-179,Em cobrança judicial,Cruzeiro (90 a 93)
-180,Rescisão de parcelamento extra judicial,BTN
-181,Quitado. Baixa automática,BTN
-182,Baixado por determinação judicial,BTN
-183,Notificado e aguardando pagamento,BTN
-184,Baixado por determinação judicial,Cruzado
-185,Quitado. Cobrança múltipla,Real
-186,Excluído,Cruzado Novo
-187,Excluído da cobrança judicial,Cruzeiro (90 a 93)
-188,Enviado à DIJUR p/inscrição na dívida ativa,Cruzeiro (90 a 93)
-189,"Para nova homologação, devido a alterações",BTN
-190,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",BTN
-191,Excluído da cobrança judicial,BTN
-192,Cancelado,UFIR
-193,Ajuizado,Cruzeiro Real
-194,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzado Novo
-195,Inscrito na dívida ativa,Cruzado
-196,Aguardando pagamento ou notificação,BTN
-197,Baixado por determinação judicial,Cruzeiro (90 a 93)
-198,"Quitado p/pagto à vista (Leis 12249,12865,12973,12996,13043)",Cruzeiro (90 a 93)
-199,Notificado e aguardando pagamento/recurso,Cruzeiro (90 a 93)
-200,Baixado por prescrição intercorrente durante anál. jurídica,BTN
-201,Ajuizado,Cruzeiro (90 a 93)
-202,Baixado c/base na Lei 9960/00,Cruzeiro (70 a 86)
-203,Excluído da cobrança judicial,Cruzado
-204,Baixado c/base na Lei 9960/00,Cruzado
-205,Para homologação/prazo de defesa,Cruzeiro (70 a 86)
-206,Para homologação/prazo de defesa,OTN
-207,Excluído,BTN
-208,Quitado. Baixa automática,Cruzado Novo
-209,Baixado c/base na IN 23/01.IN/IBDF 01/80,Cruzado Novo
-210,Quitado. Cancelado o saldo devedor,Cruzado
-211,Notificado e aguardando pagamento,Cruzado Novo
-212,Quitado. Baixa manual,Cruzado Novo
-213,Inscrito na dívida ativa,BTN
-214,Pedido de defesa ao Superintendente,BTN
-215,Baixado por determinação judicial,Cruzeiro Real
-216,Baixado presc. - aguard.lim.Port.AGU 377/11-Port.PGF 916/11,Cruzeiro Real
-217,Baixado por prescrição intercorrente durante anál. jurídica,Cruzeiro Real
-218,Edital publicado,Cruzeiro Real
-219,Notificado e aguardando pagamento,Cruzado
-220,Apólice seguro garantia judicial,Real
-221,Substituição de multa por advertência ¿ 2ª instância,Real
-222,Enviado ao Sapiens Dívida,Real
-223,Em cobrança judicial,Cruzado Novo
-224,Conversão de multa rescindida,Real
-225,Adesão conversão de multa 50%,Real
-226,Parcelado pela 1ª vez,UFIR
-227,Quitado. Cancelado o saldo devedor,Cruzeiro (90 a 93)
-228,Baixado por prescrição intercorrente durante anál. jurídica,Cruzeiro (90 a 93)
-229,Baixado por cumprimento de TAC,Real
-230,Baixado - Defesa deferida,Cruzeiro Real
-231,Notificado e aguardando pagamento,Cruzeiro Real
-232,Insuficiência de dados p/cobrança administrativa,Cruzado
-233,Análise do pedido p/PREST. SERV. DE FORMA DIRETA,Real
-234,Pedido de recurso ao Ministro do MMA,Real
-235,Baixado c/base na IN 42/04. Port. 440/89,Real
-236,Baixado - Recurso ao Conama deferido,Real
-237,"Para nova homologação, devido a alterações",UFIR
-238,Quitado. Baixa manual,Cruzeiro (70 a 86)
-239,Aguardando pagamento ou notificação,Cruzeiro (70 a 86)
-240,Quitado. Baixa manual,UFIR
-241,Excluído,Cruzeiro (70 a 86)
-242,Notificado e aguardando pagamento,Cruzeiro (70 a 86)
-243,Baixado c/base na Lei 9960/00,Cruzeiro Real
-244,Quitado. Cancelado o saldo devedor,UFIR
-245,Baixado - Defesa deferida,UFIR
-246,Excluído,Cruzado
-247,Notificado e aguardando pagamento,Cruzeiro (90 a 93)
-248,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",MVR
-249,Baixado por determinação judicial,Cruzeiro (70 a 86)
-250,Parcelado pela 1ª vez,Cruzeiro (90 a 93)
-251,Insuficiência de dados p/cobrança administrativa,Cruzeiro (90 a 93)
-252,Excluído devido a duplicidade de lançamento,MVR
-253,Insuficiência de dados p/cobrança administrativa,BTN
-254,"Parcelado, sem juros adicionais",BTN
-255,Análise admis/mérito de impugnação/defesa,Cruzeiro Real
-256,Excluído,Cruzeiro (90 a 93)
-257,Insuficiência de dados p/cobrança administrativa,Cruzeiro (70 a 86)
-258,Edital publicado,Cruzeiro (70 a 86)
-259,Aguardando pagamento ou notificação,Cruzado
-260,Baixado c/base na Lei 9960/00,Cruzado Novo
-261,Baixado - Defesa deferida,BTN
-262,Excluído da cobrança judicial,UFIR
-263,Para homologação/prazo de defesa,UFIR
-264,Baixado c/base na IN 8/99(Port.267/88),OTN
-265,Parcelado pela 1ª vez,Cruzeiro Real
-266,Aguardando pagamento ou notificação,Cruzeiro (90 a 93)
-267,Em REPARAÇÃO de dano ambiental,Real
-268,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzeiro Real
-269,Crédito ativo com óbice técnico,Cruzeiro (90 a 93)
-270,Baixado c/base na IN 23/01.IN/IBDF 01/80,BTN
-271,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",OTN
-272,Baixado por prescrição intercorrente durante anál. jurídica,Cruzado
-273,Em cobrança judicial,OTN
-274,Quitado. Baixa automática,MVR
-275,Insuficiência de dados p/cobrança administrativa,Cruzeiro Real
-276,Em cobrança judicial,UFIR
-277,Quitado. Cancelado o saldo devedor,Cruzeiro Real
-278,Aguardando pagamento ou notificação,Cruzeiro Real
-279,Aguardando pagamento ou notificação,UFIR
-280,Quitado. Baixa manual efetuada pela CGARR,Cruzeiro Real
-281,"Parcelado, sem juros adicionais",Cruzeiro Real
-282,"Para nova homologação, devido a alterações",Cruzado
-283,Inscrito na dívida ativa,Cruzeiro (70 a 86)
-284,Inscrito na dívida ativa,Cruzado Novo
-285,Excluído da cobrança judicial,Cruzado Novo
-286,Aguardando pagamento ou notificação,Cruzado Novo
-287,Baixado c/base na Lei 9960/00,UFIR
-288,"Parcelado, sem juros adicionais",Cruzado
-289,Cancelado na homologação (AI sem defesa),Cruzeiro Real
-290,Encaminhado p/análise de recurso em 3ª instân. Órgão externo,Real
-291,Baixado c/base no Dec. 3179/99. P. Serviço,Cruzeiro Real
-292,Baixado c/base na IN 42/04. Port. 440/89,Cruzeiro (90 a 93)
-293,Análise admis/mérito de impugnação/defesa,Cruzeiro (70 a 86)
-294,Quitado. Cancelado o saldo devedor,Cruzado Novo
-295,Excluído,OTN
-296,Quitado. Baixa manual,OTN
-297,Pedido de recurso ao Conama,Real
-298,Baixado c/base na IN 23/01.IN/IBDF 01/80,Cruzeiro (90 a 93)
-299,Quitado. Cancelado o saldo devedor,OTN
-300,Baixado c/base na Lei 9960/00,OTN
-301,Baixado - Defesa deferida,Cruzeiro (70 a 86)
-302,Ajuizado,Cruzeiro (70 a 86)
-303,Insuficiência de dados p/cobrança administrativa,UFIR
-304,Baixado - Defesa deferida,Cruzado
-305,Exigibilidade suspensa por dec. judic. sem depósito / TAC,Cruzeiro (90 a 93)
-306,"Enviado da SAR à DIJUR, para homologação",Cruzado
-307,"Para nova homologação, devido a alterações",Cruzado Novo
-308,Notificado e aguardando pagamento,UFIR
-309,Pedido de recurso ao Pres. do Ibama,Cruzeiro (90 a 93)
-310,Pedido de recurso ao Ministro do MMA,Cruzeiro (90 a 93)
-311,Exigibilidade suspensa por dec. judic. sem depósito / TAC,BTN
-312,Quitado. Cancelado o saldo devedor,BTN
-313,Cancelado na homologação (AI sem defesa),BTN
-314,Baixado c/base no Dec. 3179/99. P. Serviço,Cruzeiro (90 a 93)
-315,Para homologação/prazo de defesa,MVR
-316,Baixado - Defesa deferida,Cruzado Novo
-317,Baixado c/base no Dec. 3179/99. P. Serviço,BTN
-318,Cancelado por falecimento ocorrido antes da const. do créd.,Cruzeiro (90 a 93)
-319,Baixado c/base na IN 23/01.IN/IBDF 01/80,UFIR
-320,Baixado c/base na IN 42/04. Port. 440/89,Cruzeiro Real
-321,Análise admis/mérito do recurso ao Ministro do MMA,Real
-322,Ação Judicial favorável ao Ibama,Real
-323,Pedido de defesa ao Superintendente,UFIR
-324,Em análise pela área jurídica,Cruzeiro (90 a 93)
-325,Análise admis/mérito de impugnação/defesa,Cruzeiro (90 a 93)
-326,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzado
-327,Inscrito na dívida ativa,UFIR
-328,Baixado por determinação judicial,UFIR
-329,Excluído,Cruzeiro Real
-330,Parcelado pela 2ª vez,UFIR
-331,Quitado. Baixa manual efetuada pela CGARR,Cruzeiro (90 a 93)
-332,Baixado c/base no Dec. 3179/99. PS FORMA DIRETA,Cruzeiro (90 a 93)
-333,Excluído,UFIR
-334,Baixado c/base no Dec. 3179/99. P. Serviço,UFIR
-335,Quitado. Baixa automática,OTN
-336,Notificado e aguardando pagamento,OTN
-337,"Parcelamento rescindido (Leis 12249, 12865, 12973, 12996)",Cruzeiro (90 a 93)
-338,Enviado à DIJUR p/inscrição na dívida ativa,UFIR
-339,Notificado e aguardando pagamento/recurso,UFIR
-340,Renotificado do lançamento de crédito tributário,Real
-341,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",UFIR
-342,Sobrestado,Real
-343,Análise admis/mérito de impugnação/defesa,UFIR
-344,Baixado por prescrição intercorrente durante anál. jurídica,UFIR
-345,Ajuizado,UFIR
-346,Execução suspensa por determ. judicial/Ped. Parcto,UFIR
-347,Notificado e aguardando pagamento,MVR
-348,Exigibilidade suspensa por dec. judic. com depósito em juízo,Cruzeiro (90 a 93)
-349,"Para nova homologação, devido a alterações",MVR
-350,Baixado - Recurso 3ª instância deferido -Dec. n.º 5.459/05,Real
-351,Em cobrança judicial,MVR
-352,Parcelado pela 1ª vez,MVR
-353,Cancelado,MVR
-354,Exigibilidade suspensa por dec. judic. sem depósito / TAC,Cruzeiro (70 a 86)
+81,Quitado. Baixa manual,BTN
+82,Baixado - Pedido revisional deferido,Real
+83,Análise admis/mérito do recurso de ofício,Real
+84,800 - Quitado por pagamento de parcelamento tipo PRD,Real
+85,Exigibilidade suspensa - Parcelamento pela PGF/PRD,Real
+86,Crédito ativo com óbice técnico,Real
+87,AI homologado,Real
+88,Análise pedido de revisão,Real
+89,Parcelamento Administrativo,Real
+90,Quitado no Sapiens Dívida,Real
+91,Em análise pela área jurídica,Real
+92,Parcelamento Decreto 9.760/19,Real
+93,Baixado por cancelamento/nulidade na conciliação,Real
+94,"Quitado por Parcelamento (Leis 12249, 12865, 12973, 12996)",Real
+95,Enviado à Protesto,Real
+96,Exigibilidade suspensa por dec. judic. com depósito em juízo,Real
+97,"Parcto com redução (Leis 12249, 12865, 12973, 12996,13043))",Real
+98,Quitado. Baixa automática,UFIR
+99,Excluído devido a duplicidade de lançamento,Cruzado Novo
+100,Cancelado,Cruzeiro (90 a 93)
+101,Quitado. Baixa automática,Cruzeiro (90 a 93)
+102,Cancelado na homologação (AI sem defesa),Cruzeiro (90 a 93)
+103,Baixado c/base na IN 8/99(Port.267/88),Cruzado Novo
+104,Baixado por recuperação ambiental,Real
+105,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzeiro (70 a 86)
+106,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzado
+107,Excluído devido a duplicidade de lançamento,Cruzado
+108,Pedido de defesa ao Superintendente,Real
+109,Exigibilidade suspensa - Parcelamento no Sapiens Dívida,Real
+110,Análise admis/mérito do recurso ao Conama,Real
+111,Parcelamento cancelado c/saldo cobrado na justiça,Real
+112,Baixado c/base no Dec. 3179/99. PS FORMA INDIRETA,Real
+113,"Substit. p/débito acumulado (Leis 12249,12865,12973, 12996)",Real
+114,Intimado por edital,Real
+115,Analisar admi/mérito de recons. ao Superin/Gerente,Real
+116,Em recuperação ambiental,Real
+117,Baixado - Recurso ao Min. MMA deferido,Real
+118,PRESTAÇÃO DE SERVIÇO DE FORMA DIRETA em andamento,Real
+119,"Para nova homologação, devido a alterações",Cruzeiro Real
+120,"Para nova homologação, devido a alterações",Cruzeiro (90 a 93)
+121,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",BTN
+122,Excluído devido a duplicidade de lançamento,Cruzeiro Real
+123,Cancelado,Cruzeiro (70 a 86)
+124,Baixa provisória efetuada pelo CNT,Real
+125,Processo em poder da justiça,Real
+126,"Em DA, com valor insuficiente p/ cobrança judicial",Real
+127,Julgamento 1ª e 2ª Instância/Dec. Administ.-Débito Excluído,Real
+128,Substit. p/débito acumulado,Real
+129,Quitado. Baixa manual,Cruzeiro (90 a 93)
+130,Para homologação/prazo de defesa,Cruzeiro (90 a 93)
+131,Quitado por conversão de renda,Cruzeiro Real
+132,Baixado c/base na IN 8/99(Port.267/88),BTN
+133,Análise admis/mérito de impugnação/defesa,BTN
+134,Pagamento 10% da recuperação ambiental,Real
+135,Excluído devido a duplicidade de lançamento,BTN
+136,Para homologação/prazo de defesa,Cruzeiro Real
+137,Excluído devido a duplicidade de lançamento,Cruzeiro (70 a 86)
+138,Baixado c/base na IN 23/01.IN/IBDF 01/80,OTN
+139,Baixado - Pedido revisional deferido,Cruzeiro Real
+140,Baixado c/base na IN 8/99(Port.267/88),Cruzado
+141,Baixado c/base na IN 23/01.IN/IBDF 01/80,MVR
+142,Excluído devido a duplicidade de lançamento,OTN
+143,Baixado c/base na IN 23/01.IN/IBDF 01/80,Cruzeiro Real
+144,Quitado. Baixa automática,Cruzeiro (70 a 86)
+145,Cancelado,Cruzado
+146,Cancelado,Cruzado Novo
+147,Baixado c/base na IN 8/99(Port.267/88),MVR
+148,Quitado. Baixa manual,Cruzado
+149,Baixado c/base na IN 8/99(Port.267/88),Cruzeiro (70 a 86)
+150,Cancelado,BTN
+151,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzeiro (90 a 93)
+152,Prestação de serviço em andamento,Real
+153,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",UFIR
+154,Cancelado na homologação (AI sem defesa),UFIR
+155,Excluído da cobrança judicial,Real
+156,Análise do pedido de adesão(PRD),Real
+157,Em cobrança judicial,Cruzeiro Real
+158,Inscrito na dívida ativa,Cruzeiro Real
+159,Cancelado,Cruzeiro Real
+160,Pedido de defesa ao Superintendente,Cruzeiro (90 a 93)
+161,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzeiro Real
+162,Análise do pedido p/PREST. SERV. DE FORMA INDIRETA,Real
+163,Execução suspensa por determ. judicial/Ped. Parcto,Real
+164,Insuficiência de dados p/cobrança administrativa,Real
+165,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",Cruzado Novo
+166,Rescisão de parcelamento no Sapiens Dívida,Real
+167,Quitado. Baixa manual,Cruzeiro Real
+168,Baixado c/base na IN 23/01.IN/IBDF 01/80,Real
+169,Excluído da cobrança judicial,Cruzeiro (70 a 86)
+170,Quitado. Cancelado o saldo devedor,Cruzeiro (70 a 86)
+171,Para homologação/prazo de defesa,BTN
+172,Rescisão de parcelamento extra judicial,BTN
+173,Quitado. Baixa automática,BTN
+174,Baixado por determinação judicial,BTN
+175,Em cobrança judicial,BTN
+176,Notificado e aguardando pagamento,BTN
+177,Baixado por determinação judicial,Cruzado
+178,Quitado. Cobrança múltipla,Real
+179,Excluído,Cruzado Novo
+180,Excluído da cobrança judicial,Cruzeiro (90 a 93)
+181,Enviado à DIJUR p/inscrição na dívida ativa,Cruzeiro (90 a 93)
+182,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",BTN
+183,Excluído da cobrança judicial,BTN
+184,Ajuizado,Cruzeiro Real
+185,Baixado por prescrição intercorrente durante anál. jurídica,Cruzado Novo
+186,Baixado por determinação judicial,Cruzeiro (90 a 93)
+187,"Quitado p/pagto à vista (Leis 12249,12865,12973,12996,13043)",Cruzeiro (90 a 93)
+188,Notificado e aguardando pagamento/recurso,Cruzeiro (90 a 93)
+189,Baixado por prescrição intercorrente durante anál. jurídica,BTN
+190,Cancelado,UFIR
+191,Ajuizado,Cruzeiro (90 a 93)
+192,Em cobrança judicial,Cruzeiro (90 a 93)
+193,Excluído da cobrança judicial,Cruzado
+194,Baixado c/base na Lei 9960/00,Cruzado
+195,Inscrito na dívida ativa,Cruzeiro (90 a 93)
+196,Excluído,BTN
+197,Quitado. Baixa automática,Cruzado Novo
+198,Baixado c/base na IN 23/01.IN/IBDF 01/80,Cruzado Novo
+199,Quitado. Cancelado o saldo devedor,Cruzado
+200,Notificado e aguardando pagamento,Cruzado Novo
+201,Em cobrança judicial,Cruzado
+202,Quitado. Baixa manual,Cruzado Novo
+203,Baixado por determinação judicial,Cruzeiro Real
+204,Baixado presc. - aguard.lim.Port.AGU 377/11-Port.PGF 916/11,Cruzeiro Real
+205,Baixado por prescrição intercorrente durante anál. jurídica,Cruzeiro Real
+206,Edital publicado,Cruzeiro Real
+207,Notificado e aguardando pagamento,Cruzado
+208,Apólice seguro garantia judicial,Real
+209,Substituição de multa por advertência ¿ 2ª instância,Real
+210,Enviado ao Sapiens Dívida,Real
+211,Conversão de multa rescindida,Real
+212,Adesão conversão de multa 50%,Real
+213,Parcelado pela 1ª vez,UFIR
+214,Quitado. Cancelado o saldo devedor,Cruzeiro (90 a 93)
+215,Baixado por prescrição intercorrente durante anál. jurídica,Cruzeiro (90 a 93)
+216,Para homologação/prazo de defesa,Cruzado Novo
+217,"Para nova homologação, devido a alterações",BTN
+218,Baixado por cumprimento de TAC,Real
+219,Baixado - Defesa deferida,Cruzeiro Real
+220,Notificado e aguardando pagamento,Cruzeiro Real
+221,Baixado c/base na Lei 9960/00,Cruzeiro (90 a 93)
+222,Para homologação/prazo de defesa,Cruzeiro (70 a 86)
+223,Análise do pedido p/PREST. SERV. DE FORMA DIRETA,Real
+224,Pedido de recurso ao Ministro do MMA,Real
+225,Baixado c/base na IN 42/04. Port. 440/89,Real
+226,Baixado - Recurso ao Conama deferido,Real
+227,"Para nova homologação, devido a alterações",UFIR
+228,Quitado. Baixa manual,Cruzeiro (70 a 86)
+229,Em cobrança judicial,Cruzeiro (70 a 86)
+230,Baixado c/base na Lei 9960/00,Cruzeiro (70 a 86)
+231,Quitado. Baixa manual,UFIR
+232,Excluído,Cruzeiro (70 a 86)
+233,Inscrito na dívida ativa,Cruzado
+234,Baixado c/base na Lei 9960/00,Cruzeiro Real
+235,Quitado. Cancelado o saldo devedor,UFIR
+236,Baixado - Defesa deferida,UFIR
+237,Excluído,Cruzado
+238,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",MVR
+239,Baixado por determinação judicial,Cruzeiro (70 a 86)
+240,Parcelado pela 1ª vez,Cruzeiro (90 a 93)
+241,Pedido de defesa ao Superintendente,BTN
+242,Excluído devido a duplicidade de lançamento,MVR
+243,"Parcelado, sem juros adicionais",BTN
+244,Notificado e aguardando pagamento,Cruzeiro (70 a 86)
+245,Análise admis/mérito de impugnação/defesa,Cruzeiro Real
+246,Excluído,Cruzeiro (90 a 93)
+247,Edital publicado,Cruzeiro (70 a 86)
+248,Aguardando pagamento ou notificação,Cruzado
+249,Notificado e aguardando pagamento,Cruzeiro (90 a 93)
+250,Baixado c/base na Lei 9960/00,Cruzado Novo
+251,Baixado - Defesa deferida,BTN
+252,Excluído da cobrança judicial,UFIR
+253,Para homologação/prazo de defesa,UFIR
+254,Baixado c/base na IN 8/99(Port.267/88),OTN
+255,Parcelado pela 1ª vez,Cruzeiro Real
+256,Inscrito na dívida ativa,BTN
+257,Em REPARAÇÃO de dano ambiental,Real
+258,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzeiro Real
+259,Crédito ativo com óbice técnico,Cruzeiro (90 a 93)
+260,Baixado c/base na IN 23/01.IN/IBDF 01/80,BTN
+261,"Baixado por prescrição da pret. punit. (Lei 9873/99,art.1º)",OTN
+262,Baixado por prescrição intercorrente durante anál. jurídica,Cruzado
+263,Em cobrança judicial,OTN
+264,Aguardando pagamento ou notificação,Cruzeiro (90 a 93)
+265,Quitado. Baixa automática,MVR
+266,Insuficiência de dados p/cobrança administrativa,Cruzeiro Real
+267,Em cobrança judicial,UFIR
+268,Quitado. Cancelado o saldo devedor,Cruzeiro Real
+269,Aguardando pagamento ou notificação,Cruzeiro Real
+270,Aguardando pagamento ou notificação,UFIR
+271,Quitado. Baixa manual efetuada pela CGARR,Cruzeiro Real
+272,"Parcelado, sem juros adicionais",Cruzeiro Real
+273,"Para nova homologação, devido a alterações",Cruzado
+274,Inscrito na dívida ativa,Cruzeiro (70 a 86)
+275,Inscrito na dívida ativa,Cruzado Novo
+276,Excluído da cobrança judicial,Cruzado Novo
+277,Aguardando pagamento ou notificação,Cruzado Novo
+278,Baixado c/base na Lei 9960/00,UFIR
+279,Em cobrança judicial,Cruzado Novo
+280,"Parcelado, sem juros adicionais",Cruzado
+281,Encaminhado p/análise de recurso em 3ª instân. Órgão externo,Real
+282,Baixado c/base no Dec. 3179/99. P. Serviço,Cruzeiro Real
+283,Baixado c/base na IN 42/04. Port. 440/89,Cruzeiro (90 a 93)
+284,Análise admis/mérito de impugnação/defesa,Cruzeiro (70 a 86)
+285,Quitado. Cancelado o saldo devedor,Cruzado Novo
+286,Excluído,OTN
+287,Quitado. Baixa manual,OTN
+288,Pedido de recurso ao Conama,Real
+289,Baixado c/base na IN 23/01.IN/IBDF 01/80,Cruzeiro (90 a 93)
+290,Baixado c/base na Lei 9960/00,OTN
+291,Baixado - Defesa deferida,Cruzeiro (70 a 86)
+292,Ajuizado,Cruzeiro (70 a 86)
+293,Insuficiência de dados p/cobrança administrativa,UFIR
+294,Exigibilidade suspensa por dec. judic. sem depósito / TAC,Cruzeiro (90 a 93)
+295,"Enviado da SAR à DIJUR, para homologação",Cruzado
+296,"Para nova homologação, devido a alterações",Cruzado Novo
+297,Pedido de recurso ao Pres. do Ibama,Cruzeiro (90 a 93)
+298,Pedido de recurso ao Ministro do MMA,Cruzeiro (90 a 93)
+299,Exigibilidade suspensa por dec. judic. sem depósito / TAC,BTN
+300,Quitado. Cancelado o saldo devedor,BTN
+301,Cancelado na homologação (AI sem defesa),BTN
+302,Para homologação/prazo de defesa,MVR
+303,Baixado - Defesa deferida,Cruzado Novo
+304,Baixado c/base no Dec. 3179/99. P. Serviço,BTN
+305,Cancelado por falecimento ocorrido antes da const. do créd.,Cruzeiro (90 a 93)
+306,Baixado c/base na IN 42/04. Port. 440/89,Cruzeiro Real
+307,Análise admis/mérito do recurso ao Ministro do MMA,Real
+308,Ação Judicial favorável ao Ibama,Real
+309,Análise admis/mérito de impugnação/defesa,Cruzeiro (90 a 93)
+310,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",Cruzado
+311,Baixado por determinação judicial,UFIR
+312,Excluído,Cruzeiro Real
+313,Parcelado pela 2ª vez,UFIR
+314,Quitado. Baixa manual efetuada pela CGARR,Cruzeiro (90 a 93)
+315,Baixado c/base no Dec. 3179/99. PS FORMA DIRETA,Cruzeiro (90 a 93)
+316,Excluído,UFIR
+317,Notificado e aguardando pagamento,UFIR
+318,Baixado c/base no Dec. 3179/99. P. Serviço,UFIR
+319,Quitado. Baixa automática,OTN
+320,Baixado - Defesa deferida,Cruzado
+321,"Parcelamento rescindido (Leis 12249, 12865, 12973, 12996)",Cruzeiro (90 a 93)
+322,Enviado à DIJUR p/inscrição na dívida ativa,UFIR
+323,Notificado e aguardando pagamento/recurso,UFIR
+324,Renotificado do lançamento de crédito tributário,Real
+325,"Baixado por prescrição da ação execut. (Lei 9873/99,art.2º)",UFIR
+326,Sobrestado,Real
+327,Análise admis/mérito de impugnação/defesa,UFIR
+328,Baixado por prescrição intercorrente durante anál. jurídica,UFIR
+329,Ajuizado,UFIR
+330,Inscrito na dívida ativa,UFIR
+331,Execução suspensa por determ. judicial/Ped. Parcto,UFIR
+332,Exigibilidade suspensa por dec. judic. com depósito em juízo,Cruzeiro (90 a 93)
+333,"Para nova homologação, devido a alterações",MVR
+334,Baixado - Recurso 3ª instância deferido -Dec. n.º 5.459/05,Real
+335,Baixado c/base na IN 23/01.IN/IBDF 01/80,UFIR
+336,Em cobrança judicial,MVR
+337,Parcelado pela 1ª vez,MVR
+338,Cancelado,MVR
+339,Exigibilidade suspensa por dec. judic. sem depósito / TAC,Cruzeiro (70 a 86)
