@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > Sistema de ETL (Extract, Transform, Load) para análise de multas ambientais aplicadas no Brasil, implementando um Data Warehouse dimensional seguindo o modelo Star Schema.
 
